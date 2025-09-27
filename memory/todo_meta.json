@@ -12,14 +12,14 @@
         "id": "2",
         "content": "Kreiranje Supabase backend infrastrukture",
         "details": "Postaviti:\n- Bazu podataka sa tabelama za korisnike, trenere, teretane, proizvode, narudžbine\n- Autentifikaciju za različite tipove korisnika\n- Storage za slike proizvoda i profila\n- Edge funkcije za kompleksnu logiku",
-        "status": "in_progress",
+        "status": "completed",
         "priority": "high"
       },
       "3": {
         "id": "3",
         "content": "Razvoj kompletne full-stack aplikacije",
         "details": "Izgraditi:\n- E-commerce funkcionalnost (prodavnica suplemenata)\n- Sistem rezervacije i kupovine trenerskih programa\n- Panele za različite tipove korisnika (trener, korisnik, teretana, prodavnica)\n- Sistem praćenja napretka korisnika\n- Algoritam za prioritizaciju i nagrade\n- Sistem ocenjivanja trenera",
-        "status": "pending",
+        "status": "completed",
         "priority": "high"
       }
     }

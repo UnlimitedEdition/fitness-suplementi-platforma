@@ -1,0 +1,271 @@
+
+> react_repo@0.0.0 build /workspace
+> pnpm install --prefer-offline && rm -rf node_modules/.vite-temp && tsc -b && vite build
+
+Recreating /workspace/node_modules
+Lockfile is up to date, resolution step is skipped
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Packages: +191
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 191, reused 0, downloaded 0, added 0
+Progress: resolved 191, reused 0, downloaded 1, added 0
+Progress: resolved 191, reused 0, downloaded 73, added 22
+Progress: resolved 191, reused 0, downloaded 148, added 63
+Progress: resolved 191, reused 0, downloaded 191, added 191, done
+
+dependencies:
++ @hookform/resolvers 3.10.0
++ @radix-ui/react-accordion 1.2.12
++ @radix-ui/react-alert-dialog 1.1.15
++ @radix-ui/react-aspect-ratio 1.1.7
++ @radix-ui/react-avatar 1.1.10
++ @radix-ui/react-checkbox 1.3.3
++ @radix-ui/react-collapsible 1.1.12
++ @radix-ui/react-context-menu 2.2.16
++ @radix-ui/react-dialog 1.1.15
++ @radix-ui/react-dropdown-menu 2.1.16
++ @radix-ui/react-hover-card 1.1.15
++ @radix-ui/react-label 2.1.7
++ @radix-ui/react-menubar 1.1.16
++ @radix-ui/react-navigation-menu 1.2.14
++ @radix-ui/react-popover 1.1.15
++ @radix-ui/react-progress 1.1.7
++ @radix-ui/react-radio-group 1.3.8
++ @radix-ui/react-scroll-area 1.2.10
++ @radix-ui/react-select 2.2.6
++ @radix-ui/react-separator 1.1.7
++ @radix-ui/react-slider 1.3.6
++ @radix-ui/react-slot 1.2.3
++ @radix-ui/react-switch 1.2.6
++ @radix-ui/react-tabs 1.1.13
++ @radix-ui/react-toast 1.2.15
++ @radix-ui/react-toggle 1.1.10
++ @radix-ui/react-toggle-group 1.1.11
++ @radix-ui/react-tooltip 1.2.8
++ @stripe/react-stripe-js 4.0.2
++ @stripe/stripe-js 7.9.0
++ @supabase/supabase-js 2.58.0
++ @tanstack/react-query 5.90.2
++ class-variance-authority 0.7.1
++ clsx 2.1.1
++ cmdk 1.0.0
++ date-fns 3.6.0
++ embla-carousel-react 8.6.0
++ input-otp 1.4.2
++ lucide-react 0.364.0
++ next-themes 0.4.6
++ react 18.3.1
++ react-day-picker 8.10.1
++ react-dom 18.3.1
++ react-hook-form 7.63.0
++ react-resizable-panels 2.1.9
++ react-router-dom 6.30.1
++ recharts 2.15.4
++ sonner 1.7.4
++ tailwind-merge 2.6.0
++ tailwindcss-animate 1.0.7
++ vaul 1.1.2
++ zod 3.25.76
+
+devDependencies:
++ @eslint/js 9.36.0
++ @types/node 22.18.6
++ @types/react 18.3.24
++ @types/react-dom 18.3.7
++ @types/react-router-dom 5.3.3
++ @vitejs/plugin-react 4.7.0
++ autoprefixer 10.4.20
++ eslint 9.36.0
++ eslint-plugin-react-hooks 5.2.0
++ eslint-plugin-react-refresh 0.4.22
++ globals 15.15.0
++ postcss 8.4.49
++ tailwindcss 3.4.16
++ typescript 5.6.3
++ typescript-eslint 8.44.1
++ vite 6.3.6
++ vite-plugin-source-identifier 1.1.2
+
+╭ Warning ─────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Ignored build scripts: esbuild.                                            │
+│   Run "pnpm approve-builds" to pick which dependencies should be allowed     │
+│   to run scripts.                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Done in 8.2s using pnpm v10.12.4
+src/components/Layout.tsx:4:25 - error TS2307: Cannot find module '@/components/ui/sonner' or its corresponding type declarations.
+
+4 import { Toaster } from '@/components/ui/sonner'
+                          ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/components/Navigation.tsx:4:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+4 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/components/Navigation.tsx:12:8 - error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+
+12 } from '@/components/ui/dropdown-menu'
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/components/Navigation.tsx:13:53 - error TS2307: Cannot find module '@/components/ui/avatar' or its corresponding type declarations.
+
+13 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
+                                                       ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/components/Navigation.tsx:14:23 - error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+
+14 import { Badge } from '@/components/ui/badge'
+                         ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/components/ProtectedRoute.tsx:31:71 - error TS2345: Argument of type 'string' is not assignable to parameter of type '"client" | "trainer" | "gym_admin" | "store_admin"'.
+
+31     const hasRequiredRole = roles.some(role => userRoleNames.includes(role))
+                                                                         ~~~~
+
+src/hooks/useCart.ts:1:24 - error TS2307: Cannot find module 'zustand' or its corresponding type declarations.
+
+1 import { create } from 'zustand'
+                         ~~~~~~~~~
+
+src/hooks/useCart.ts:2:25 - error TS2307: Cannot find module 'zustand/middleware' or its corresponding type declarations.
+
+2 import { persist } from 'zustand/middleware'
+                          ~~~~~~~~~~~~~~~~~~~~
+
+src/pages/CartPage.tsx:5:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+5 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/CartPage.tsx:6:75 - error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+
+6 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+                                                                            ~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/CartPage.tsx:7:23 - error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+
+7 import { Input } from '@/components/ui/input'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/CartPage.tsx:8:27 - error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+
+8 import { Separator } from '@/components/ui/separator'
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/CartPage.tsx:9:23 - error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+
+9 import { Badge } from '@/components/ui/badge'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/HomePage.tsx:3:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+3 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/HomePage.tsx:4:75 - error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+
+4 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+                                                                            ~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/HomePage.tsx:5:23 - error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+
+5 import { Badge } from '@/components/ui/badge'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:4:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+4 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:5:75 - error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+
+5 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+                                                                            ~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:6:23 - error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+
+6 import { Badge } from '@/components/ui/badge'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:7:23 - error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+
+7 import { Input } from '@/components/ui/input'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:8:79 - error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+
+8 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+                                                                                ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:9:24 - error TS2307: Cannot find module '@/components/ui/slider' or its corresponding type declarations.
+
+9 import { Slider } from '@/components/ui/slider'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/ProductsPage.tsx:10:27 - error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+
+10 import { Separator } from '@/components/ui/separator'
+                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/LoginPage.tsx:4:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+4 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/LoginPage.tsx:5:23 - error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+
+5 import { Input } from '@/components/ui/input'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/LoginPage.tsx:6:23 - error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+
+6 import { Label } from '@/components/ui/label'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/LoginPage.tsx:7:87 - error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+
+7 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
+                                                                                        ~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/LoginPage.tsx:8:41 - error TS2307: Cannot find module '@/components/ui/alert' or its corresponding type declarations.
+
+8 import { Alert, AlertDescription } from '@/components/ui/alert'
+                                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:4:24 - error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+
+4 import { Button } from '@/components/ui/button'
+                         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:5:23 - error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+
+5 import { Input } from '@/components/ui/input'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:6:23 - error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+
+6 import { Label } from '@/components/ui/label'
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:7:87 - error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+
+7 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
+                                                                                        ~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:8:41 - error TS2307: Cannot find module '@/components/ui/alert' or its corresponding type declarations.
+
+8 import { Alert, AlertDescription } from '@/components/ui/alert'
+                                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+src/pages/auth/RegisterPage.tsx:9:26 - error TS2307: Cannot find module '@/components/ui/checkbox' or its corresponding type declarations.
+
+9 import { Checkbox } from '@/components/ui/checkbox'
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Found 34 errors.
+
+ ELIFECYCLE  Command failed with exit code 2.
