@@ -1,0 +1,66 @@
+📄 Extracted from page: Become a ProCoach with Our Nutrition Coaching App | Precision Nutrition
+URL: https://www.precisionnutrition.com/procoach-nutrition-coaching-software
+
+Extracted content:
+```json
+{
+  "title": "Become a ProCoach with Our Nutrition Coaching App | Precision Nutrition",
+  "url": "https://www.precisionnutrition.com/procoach-nutrition-coaching-software",
+  "summary": "ProCoach is a comprehensive all-in-one digital health and fitness coaching platform by Precision Nutrition, designed to empower coaches with a world-renowned behavior-change methodology. It moves beyond traditional dieting and generic workout plans, focusing on helping clients achieve sustainable results through personalized skill-building in nutrition, movement, sleep, and stress management. The platform offers integrated tools for client management, goal setting, progress tracking, communication, and provides extensive support and resources for coaches to build a thriving practice.",
+  "procoach_details": {
+    "description": "ProCoach is a revolutionary health and fitness coaching platform that implements Precision Nutrition’s world-renowned behavior-change approach. It enables coaches to connect with clients, create custom health and nutrition programs, schedule and run online check-ins, and manage key client data with efficiency. Its core differentiator is its foundation in the Precision Nutrition (PN) Approach, aiming for lasting behavioral change rather than temporary fixes.",
+    "core_philosophy": {
+      "name": "The Precision Nutrition Approach (Four Pillars)",
+      "pillars": [
+        {
+          "title": "Let the client lead",
+          "explanation": "Emphasizes a client-centered, collaborative coaching relationship. It helps clients identify their own goals and 'why', developing plans driven by their values, life circumstances, and readiness to ensure consistent, non-overwhelming progress."
+        },
+        {
+          "title": "Progressive behavior change = sustainable results",
+          "explanation": "Utilizes the 'Goal–>Skill–>Practice–>Action' (GSPA) model. This approach breaks down big goals into small, progressive steps, focusing on developing skills in nutrition, movement, sleep, stress, mindset, and outlook to achieve lasting transformations."
+        },
+        {
+          "title": "Truly Evidence-Based Practice (EBP)",
+          "explanation": "Integrates expertise from top nutritionists, PhDs, and dietitians; peer-reviewed scientific research; extensive experience and data from coaching over 100,000 clients; and everyday, reality-based life evidence through outcome-based decision making."
+        },
+        {
+          "title": "Transform lives, not just bodies",
+          "explanation": "Advocates for a holistic 'deep health' approach, recognizing that physical health is part of a larger picture. It aims to help clients build skills to make new choices, gain confidence, and improve overall mental and physical well-being."
+        }
+      ]
+    },
+    "functionalities": {
+      "personalized_behavior_change_coaching": "Features a comprehensive 'Practice Library' with 14 Skills and over 40 Practices focusing on nutrition, movement, sleep, stress, and specific change adaptation skills. A guided coaching flow uses client intake questionnaires to identify and prioritize skills tailored to individual client goals, values, and lifestyle. Includes done-for-you resources for each practice.",
+      "goal_setting_tools": "Implements the Precision Nutrition 'Goal–>Skill–>Practice–>Action' (GSPA) formula to help clients uncover their deep motivations and translate major goals into actionable, manageable daily steps.",
+      "progress_tracking": "Beyond traditional metrics like bodyweight and circumference, ProCoach allows tracking of behavioral progress including food journaling, hand portion tracking, and daily practice completion. This provides a clearer picture of progress and informs coaching decisions.",
+      "communication_options": "Includes integrated instant messaging, direct messages with support for emojis and file attachments. It facilitates scheduling and conducting live check-ins with guided prompts to explore client progress and challenges.",
+      "dashboard_options": "Provides a comprehensive client profile dashboard where coaches can manage and view client goals, progress pictures, measurements, dietary preferences, food sensitivities, intake data, and contact information, streamlining administrative tasks.",
+      "scheduling": "Supports scheduling and running online check-ins with clients.",
+      "mobile_client_app": "An integrated mobile application for both Apple (iOS) and Android devices, allowing clients to submit daily check-ins, progress updates, and communicate directly with their coach from anywhere.",
+      "coach_support_resources": {
+        "community": "Access to Precision Nutrition’s private Facebook community with over 50,000 coaches for peer support, Q&A, and troubleshooting.",
+        "learning_center": "A searchable database of articles and instructional guides covering business model setup, the PN behavior-change method, and step-by-step software usage instructions."
+      }
+    },
+    "pricing": {
+      "free_trial": "30-day free trial, offering full access to all training tools, curriculum, workouts, the learning center, and the Facebook community. No risk, no contracts, cancel anytime.",
+      "monthly_cost": "After the 30-day free trial, it costs $99/month for up to 20 clients. Users can cancel at any time without penalty."
+    },
+    "exclusive_bonus": "Signing up for the free trial includes instant access to the 'Coaching Business Kickstarter' (valued at $349). This digital course covers defining, marketing, and selling coaching services, business structuring, client identification, brand crafting, and confident pricing strategies, along with templates and scripts."
+  },
+  "relevant_links": [
+    "https://www.precisionnutrition.com/coaching-for-women",
+    "https://www.precisionnutrition.com/coaching-for-men",
+    "https://www.precisionnutrition.com/1-to-1-coaching-waitlist",
+    "https://www.precisionnutrition.com/nutrition-certification",
+    "https://www.precisionnutrition.com/nutrition-certification-level-1-register-now",
+    "https://www.precisionnutrition.com/sleep-stress-management-recovery-certification-level-1-waitlist",
+    "https://www.precisionnutrition.com/master-health-coach-certification-early-bird",
+    "https://www.precisionnutrition.com/blog",
+    "https://www.precisionnutrition.com/podcast",
+    "https://assets.precisionnutrition.com/2021/06/ProCoach-domains-skills-practices.pdf"
+  ],
+  "file_name": "precision_nutrition_procoach_details.json"
+}
+```

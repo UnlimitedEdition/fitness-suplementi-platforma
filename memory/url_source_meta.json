@@ -1,0 +1,184 @@
+{
+  "_source_id": 25,
+  "sources": {
+    "Sistemi Ocenjivanja u Fitness Industriji 2025": {
+      "https://opensportssciencesjournal.com/VOLUME/18/ELOCATOR/e1875399X378003/FULLTEXT/": {
+        "id": 1,
+        "publisher": "The Open Sports Sciences Journal",
+        "url": "https://opensportssciencesjournal.com/VOLUME/18/ELOCATOR/e1875399X378003/FULLTEXT/",
+        "title": "Innovative Performance Evaluation of Personal Fitness Trainer: Development and Validation of Performance Index Rating Scale",
+        "info": "Akademski rad o razvoju PIPFT (Performance Index for Personal Fitness Trainers) - 4-dimenzionalni sistem ocenjivanja trenera sa skalama od 100 poena (Znanje, Fizički izgled i stav, Uspeh u prodaji, Menadžerske veštine)"
+      },
+      "https://www.jefit.com/wp/general-fitness/slug-introduction-to-workout-planning-apps-key-features-to-look-for-top-workout-apps-of-2025-enhancing-your-fitness-journey-with-jefit-conclusion-next-steps-references/": {
+        "id": 2,
+        "publisher": "JEFIT",
+        "url": "https://www.jefit.com/wp/general-fitness/slug-introduction-to-workout-planning-apps-key-features-to-look-for-top-workout-apps-of-2025-enhancing-your-fitness-journey-with-jefit-conclusion-next-steps-references/",
+        "title": "The Best Workout Planning And Tracking Apps Of 2025",
+        "info": "Analiza ključnih metrika za praćenje napretka: Progress Analytics sa strength gains, workout consistency, adaptive programming. JEFIT specifično prati strength gains i workout consistency."
+      },
+      "https://barbend.com/best-weight-loss-apps/": {
+        "id": 3,
+        "publisher": "BarBend",
+        "url": "https://barbend.com/best-weight-loss-apps/",
+        "title": "Best Weight Loss Apps (2025)",
+        "info": "Detaljne metrike za praćenje weight loss u 8 vodećih aplikacija, cene od $0-200 mesečno, tracking metode (kaloria, makroi, navike), efficacy studije pokazuju da aplikacije za praćenje povećavaju uspeh u mršavljenju"
+      },
+      "https://www.exercise.com/grow/best-gym-software-with-incentives/": {
+        "id": 4,
+        "publisher": "Exercise.com",
+        "url": "https://www.exercise.com/grow/best-gym-software-with-incentives/",
+        "title": "6 Best Gym Software with Incentives in 2025",
+        "info": "Detaljni pregled sistema nagrađivanja u 6 vodećih gym softvera: Exercise.com (custom rewards, gamifikacija), Wodify (leaderboards, challenges), ClubOS (automated communication), Myzone (real-time feedback), Perkville (points system)"
+      },
+      "https://www.researchgate.net/publication/394524077_Global_Optimization_Algorithm_for_Fitness_Coach_Occupation": {
+        "id": 5,
+        "publisher": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/394524077_Global_Optimization_Algorithm_for_Fitness_Coach_Occupation",
+        "title": "Global Optimization Algorithm for Fitness Coach Occupation",
+        "info": "Istraživanje o globalnim optimizacionim algoritmima za fitness coaching profession sa dynamic feedback-adaptive learning pristupom"
+      },
+      "https://www.simplekpi.com/KPI-Dashboard-Examples/Fitness-Club-Dashboard-Example": {
+        "id": 6,
+        "publisher": "SimpleKPI",
+        "url": "https://www.simplekpi.com/KPI-Dashboard-Examples/Fitness-Club-Dashboard-Example",
+        "title": "Fitness Club KPI Dashboard Template",
+        "info": "KPI dashboard za fitness klubove - tracking membership analytics (novi/retention/conversion rate/LTV/CAC), revenue tracking (membership/additional revenue), performance indicators. Fokus na predictive KPIs"
+      },
+      "https://zenplanner.com/analytics/master-your-gyms-performance-with-analytics-dashboards/": {
+        "id": 7,
+        "publisher": "ZenPlanner",
+        "url": "https://zenplanner.com/analytics/master-your-gyms-performance-with-analytics-dashboards/",
+        "title": "Master your gym's performance with analytics dashboards",
+        "info": "Gym analytics dashboard za real-time KPI tracking, actionable insights, custom data tracking, predictive analytics, member engagement through data, operational management 2025"
+      },
+      "https://wod.guru/blog/gym-analytics/": {
+        "id": 8,
+        "publisher": "WodGuru",
+        "url": "https://wod.guru/blog/gym-analytics/",
+        "title": "Gym Analytics: 7 Reasons to Introduce It to Your Gym in 2025",
+        "info": "7 razloga za implementaciju gym analytics 2025: personalizovano iskustvo članova, retention, optimizacija rasporeda, data-driven marketing, operativna efikasnost, AI u analitici"
+      },
+      "https://www.gdpr-advisor.com/gdpr-compliance-for-fitness-apps-safeguarding-personal-health-information/": {
+        "id": 9,
+        "publisher": "GDPR Advisor",
+        "url": "https://www.gdpr-advisor.com/gdpr-compliance-for-fitness-apps-safeguarding-personal-health-information/",
+        "title": "GDPR Compliance for Fitness Apps: Safeguarding Personal Health Information",
+        "info": "GDPR compliance za fitness aplikacije - zahtevi za health data kao posebnu kategoriju, legal basis za obradu, data minimization, transparency, security measures, user rights, cross-border transfers"
+      },
+      "https://www.clubautomation.com/resources/how-loyalty-programs-can-drive-member-retention-in-fitness-clubs": {
+        "id": 10,
+        "publisher": "Club Automation",
+        "url": "https://www.clubautomation.com/resources/how-loyalty-programs-can-drive-member-retention-in-fitness-clubs",
+        "title": "How Loyalty Programs Can Drive Member Retention in Fitness Clubs",
+        "info": "7 strategija loyalty programa za zadržavanje članova: gamifikacija sa tier sistemom (Bronza/Srebro/Zlato), automatizacija, personalizacija nagrada, social media engagement, eventi/challenges, analytics za optimizaciju"
+      },
+      "https://www.trainerize.com/blog/key-performance-indicators-for-personal-trainers/": {
+        "id": 11,
+        "publisher": "Trainerize",
+        "url": "https://www.trainerize.com/blog/key-performance-indicators-for-personal-trainers/",
+        "title": "7 Key Performance Indicators (KPIs) to Track as a Personal Trainer",
+        "info": "7 ključnih KPI-jeva za personalne trenere: revenue per client, class attendance, retention rate (direktno povezano sa client success rate), profit margin, daily attendance, member lifetime value, revenue per session"
+      },
+      "https://www.exercise.com/grow/best-personal-trainer-kpi-examples/": {
+        "id": 12,
+        "publisher": "Exercise.com",
+        "url": "https://www.exercise.com/grow/best-personal-trainer-kpi-examples/",
+        "title": "15 Best Personal Trainer KPI Examples",
+        "info": "15 najboljih KPI primera za personalne trenere uključujući Client Progress/Success Rate (>70% smatra se dobrim), Session Attendance Rate (>85% odlično), Client Satisfaction (>80%), Client Referral Rate (20-30%)"
+      },
+      "https://yukaichou.com/gamification-analysis/top-10-gamification-in-fitness/": {
+        "id": 13,
+        "publisher": "Yu-kai Chou",
+        "url": "https://yukaichou.com/gamification-analysis/top-10-gamification-in-fitness/",
+        "title": "Top 10 Most Innovative Gamification in Fitness (2025)",
+        "info": "Top 10 gamifikacije u fitness: Nike Training Club (#1), Strava (#2), FitRPG (#6), Zombies Run (#4), BoardGains (#7), koriste achievements, leaderboards, progression, social features"
+      },
+      "https://trophy.so/blog/health-gamification-examples": {
+        "id": 14,
+        "publisher": "Trophy",
+        "url": "https://trophy.so/blog/health-gamification-examples",
+        "title": "10 Health App Gamification Examples (2025)",
+        "info": "10 health app gamification primera: Fitbit (badges, challenges, leaderboards, streaks), MyFitnessPal (badges, streaks), Nike Run Club (badges, challenges, progress bars), Headspace, Lifesum sa detaljnim opisom svakog elementa"
+      },
+      "https://geeksofkolachi.com/blogs/fitness-app-features-2025-user-engagement/": {
+        "id": 15,
+        "publisher": "Geeks of Kolachi",
+        "url": "https://geeksofkolachi.com/blogs/fitness-app-features-2025-user-engagement/",
+        "title": "Top 30 Fitness App Features to Boost Engagement in 2025",
+        "info": "Top 30 fitness app features 2025: essential (user profile, goal setting, tracking, push notifications), advanced (wearable integration, gamification, video tutorials, social sharing), emerging trends (AI/ML, IoT, VR/AR, blockchain)"
+      }
+    },
+    "Analiza platformi za fitness coaching i personalne trenere": {
+      "https://www.trainerize.com/": {
+        "id": 16,
+        "publisher": "ABC Trainerize",
+        "url": "https://www.trainerize.com/",
+        "title": "ABC Trainerize - Glavna stranica platforme",
+        "info": "Sveobuhvatne informacije o platformi: preko 400.000 trenera, 45.000 businessa, funkcionalnosti COACH/ENGAGE/MANAGE, 30 dana besplatne probe, integracije sa wearables, sistemi plaćanja sa Stripe, dashboard za trenere i klijente"
+      },
+      "https://www.trainerize.com/pricing/": {
+        "id": 17,
+        "publisher": "ABC Trainerize",
+        "url": "https://www.trainerize.com/pricing/",
+        "title": "ABC Trainerize - Pricing stranica",
+        "info": "Detaljni pricing planovi: Basic (besplatno, 1 klijent), Grow ($10/mesečno, 2 klijenta), Pro 5 ($22/mesečno, do 200 klijenata sa opcijama), Studio Plus ($250/mesečno, do 1000 članova), dodaci kao što su Business ($25), Video Coaching ($10), Custom Branded App ($169)"
+      },
+      "https://truecoach.co/": {
+        "id": 18,
+        "publisher": "TrueCoach",
+        "url": "https://truecoach.co/",
+        "title": "TrueCoach - Glavna stranica platforme",
+        "info": "Platforma koristi preko 20.000 trenera i coach-eva, 233K+ klijenata, 47M+ isporučenih treninga, 14-dnevni besplatni probni period, funkcionalnosti za program building, video biblioteka sa 3.000+ snimaka, praćenje ishrane sa MyFitnessPal integracijom, automatizovana plaćanja sa Stripe"
+      },
+      "https://truecoach.co/pricing/": {
+        "id": 19,
+        "publisher": "TrueCoach",
+        "url": "https://truecoach.co/pricing/",
+        "title": "TrueCoach - Pricing stranica",
+        "info": "Tri glavna plana: Starter ($26.34/mesečno godišnje, do 5 klijenata), Standard ($57.99/mesečno godišnje, do 20 klijenata), Pro ($136.99/mesečno godišnje, do 50 klijenata), sve sa 14-dnevnim besplatnim probnim periodom, 90-dnevna garancija povrata novca za godišnje planove"
+      },
+      "https://www.myfitnesspal.com/": {
+        "id": 20,
+        "publisher": "MyFitnessPal",
+        "url": "https://www.myfitnesspal.com/",
+        "title": "MyFitnessPal - Glavna stranica aplikacije",
+        "info": "Preko 200 miliona korisnika, baza od preko 20 miliona namirnica, integracije sa 35+ aplikacija i uređaja, besplatna osnovna verzija sa osnovnim praćenjem kalorija i makronutrijenata, Premium opcije sa naprednim funkcijama"
+      },
+      "https://www.myfitnesspal.com/premium": {
+        "id": 21,
+        "publisher": "MyFitnessPal",
+        "url": "https://www.myfitnesspal.com/premium",
+        "title": "MyFitnessPal - Premium stranica",
+        "info": "Dva Premium nivoa: Premium ($79.99 godišnje/$6.67 mesečno) i Premium+ ($99.99 godišnje/$8.34 mesečno), funkcionalnosti uključuju skeniranje bar kodova, planer obroka, 1500+ recepata, prilagođene makro ciljeve, bez reklama, 1-mesečni besplatni probni period"
+      },
+      "https://www.precisionnutrition.com/procoach-nutrition-coaching-software": {
+        "id": 22,
+        "publisher": "Precision Nutrition",
+        "url": "https://www.precisionnutrition.com/procoach-nutrition-coaching-software",
+        "title": "Precision Nutrition ProCoach - Glavna stranica",
+        "info": "All-in-one digitalna platforma za health i fitness coaching, Practice Library sa 14 veština i 40+ praksi, centralizovani dashboard za upravljanje klijentima, instant messaging, mobilna aplikacija, progress tracking, $99/mesečno za do 20 klijenata, 30-dnevna besplatna proba"
+      },
+      "https://www.trainerfu.com/blog/trainerize-vs-truecoach/": {
+        "id": 23,
+        "publisher": "Trainerfu",
+        "url": "https://www.trainerfu.com/blog/trainerize-vs-truecoach/",
+        "title": "Trainerize vs TrueCoach - Detaljna komparacija",
+        "info": "Detaljna komparacija Trainerize vs TrueCoach: Trainerize ($70/mesečno za 30 klijenata) vs TrueCoach ($63.99/mesečno za 20 klijenata), analiza funkcionalnosti planiranja vežbi, mobilne dostupnosti, automatizacije, nutrition coaching i korisničkog interfejsa sa ocenama po kategorijama"
+      },
+      "https://hubfit.io/blog/top-5-nutrition-coaching-platforms-for-online-coaches": {
+        "id": 24,
+        "publisher": "HubFit",
+        "url": "https://hubfit.io/blog/top-5-nutrition-coaching-platforms-for-online-coaches",
+        "title": "Top 5 Nutrition Coaching Platforms for Online Coaches",
+        "info": "Analiza 5 najboljih nutrition coaching platformi: Trainerize (kombinuje trening i ishranu), Cronometer (detaljno praćenje mikronutrijenata), MyFitnessPal (ogromna baza hrane ali paywall za napredne opcije), Nutrium (fokus na dijetičare), HubFit (sve-u-jednom rešenje)"
+      },
+      "https://help.trainerize.com/hc/en-us/articles/4429640398740-Setting-your-calendar-availability-for-client-self-booking": {
+        "id": 25,
+        "publisher": "ABC Trainerize Help Center",
+        "url": "https://help.trainerize.com/hc/en-us/articles/4429640398740-Setting-your-calendar-availability-for-client-self-booking",
+        "title": "Setting Calendar Availability for Client Self-Booking",
+        "info": "Trainerize Calendar Availability funkcionalnost omogućava trenerima da definišu dostupne sate za self-booking od strane klijenata (1-na-1 termini), uključuje vizuelne indikacije (plava boja za dostupne dane), sinhronizaciju sa Google Calendar, individualna podešavanja za svaki tim"
+      }
+    }
+  }
+}
